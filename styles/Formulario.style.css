@@ -1,0 +1,70 @@
+.conteudo-formulario {
+    padding: 20px;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.conteudo-formulario  h3 {
+    font-size: 1.2em;
+}
+
+.conteudo-formulario  h3 i {
+    margin-right: 5px;
+    padding-top: 20px;
+}
+
+
+.form-group {
+    padding: 10px;
+}
+
+.margin-15px {
+    margin-top: 15px
+}
+
+.mr-15px {
+    margin-right: 15px;
+}
+
+.conteudo-formulario .menuTab {
+    margin-top: -64px;
+    margin-left: -21px;
+}
+
+.conteudo-formulario .menuTab ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.conteudo-formulario .menuTab ul li {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.conteudo-formulario .menuTab ul li.active {
+    border-top: 1px;
+    border-left: 1px;  
+    border-right: 1px;
+    border-bottom: 0px;
+    border-color: #CCCCCC;
+    border-style: solid;
+    background-color: #fff;
+}
+
+.conteudo-formulario .menuTab ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.conteudo-formulario .paginacao {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.conteudo-formulario .paginacao button:first-child {
+    margin-right: 10px;
+}
